@@ -1,0 +1,1 @@
+Very simple test to see if CLIP is accurate enough when it comes to Cosine Search and Semantic Search between images and texts. To use, place some images (preferrably a couple hundred or thousand) in the reference images folder and run the code. The image encoding might take a while and there are no loading bars or anything so you might need to be a little patient. 
